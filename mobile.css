@@ -13,7 +13,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    min-height: 100dvh;
     background-color: #D5E1EF;
     user-select: none;
 
